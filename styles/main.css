@@ -57,6 +57,7 @@ a {
   flex-direction: column;
   border-bottom: 0.1em solid var(--colorBottom);
 }
+
 .container-home__about .container__avatar img {
   max-width: 8em;
   border-radius: 100%;
