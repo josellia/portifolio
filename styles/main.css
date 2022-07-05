@@ -212,7 +212,7 @@ ul li::before {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  padding: 1%;
+  padding: 2%;
   border-radius: var(--borderRadiusContent);
   box-shadow: rgba(230, 196, 5, 0.25) 0px 54px 55px,
     rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
